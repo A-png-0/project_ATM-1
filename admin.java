@@ -37,9 +37,9 @@ public class admin {
       
         
         Scanner input = new Scanner(System.in);
-               int cardNum = 200400 ; // رقم البطاقة
+               int cardNum = 200400 ; //رقم بطاقة المستخدم 
         int pwd = 888888; // كلمة المرور
-        boolean F = true; // أعلن متغير منطقي
+        boolean F = true; // تعريف متغير واعطائه القيمة True
         double surplus = 800.0;// الرصيد
      
       
